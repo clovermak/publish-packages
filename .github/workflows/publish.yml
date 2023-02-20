@@ -17,5 +17,5 @@ jobs:
           username: clovermak
           password: ${{ secrets.GITHUB_TOKEN }}
           registry: docker.pkg.github.com
-          repository: YOURNAME/publish-packages/game
+          repository: clovermak/publish-packages/game
           tag_with_sha: true
